@@ -6,7 +6,7 @@ form {
   display: flex;
   justify-content: center;
   gap: 10px;
-  margin-top: 3cqmin;
+  margin-top: 30px;
 }
 
 input {
@@ -57,5 +57,5 @@ button {
 }
 
 .card p {
-  font-size: 1rem;
+  font-size: 15px;
 }
